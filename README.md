@@ -27,4 +27,4 @@
 >
 ## 코딩
 > #### 개발 언어 : Native(Kotlin)
-> #### 개발 환경 : Visual Stdio Code
+> #### 개발 환경 : Android Stodio
